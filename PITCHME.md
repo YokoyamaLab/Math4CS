@@ -31,7 +31,7 @@
 \frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
 \]`
 
-`$ k=1 $`
+`$ k=\frac{2}{5} $`
 
 ---
 ## 14.5 Counting Subset
