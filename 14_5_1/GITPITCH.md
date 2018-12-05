@@ -18,5 +18,3 @@ n!=k!(n-k)!
 \end{array}
 \right)=\frac{n!}{k!(n-k)!}
 \]`
-
----
