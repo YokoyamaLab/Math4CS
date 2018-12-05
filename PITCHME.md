@@ -54,11 +54,13 @@
 ### 14.5.1 The Subset Rule
 
 `\[
-n!=k!(n-k)!\left(
+n!=k!(n-k)!
+\left(
 \begin{array}{ccc}
       n \\ 
       k 
 \end{array}
+\right)
 \]`
 
 ---
