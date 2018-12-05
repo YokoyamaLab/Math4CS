@@ -43,17 +43,17 @@
 <!-- 14.8.1 Hairs on Head -->
 
 ---?include=14_8_2/GITPITCH.md
-### 14.8.2 Subsets with the Same Sum
+<!-- 14.8.2 Subsets with the Same Sum -->
 
 ---?include=14_8_3/GITPITCH.md
-### 14.8.3 A Magic Trick
+<!-- 14.8.3 A Magic Trick -->
 
 ---?include=14_8_4/GITPITCH.md
-### 14.8.4 The Secret
+<!-- 14.8.4 The Secret -->
 
 ---?include=14_8_5/GITPITCH.md
-### 14.8.5 The Real Secret
+<!-- 14.8.5 The Real Secret ->
 
 ---?include=14_8_6/GITPITCH.md
-### 14.8.6 The Same Trick with Four Cards?
+<!-- 14.8.6 The Same Trick with Four Cards? -->
 
