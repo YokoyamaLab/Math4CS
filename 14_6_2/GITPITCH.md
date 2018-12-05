@@ -20,13 +20,3 @@
 `\[
 \frac{20!}{5!)^4}
 \]`
-
----
-#### 14.6.2 The Bookkeeper Rule [cont'd]
-
-`\begin{eqnarray*}
-(a+b)^4 &=& aaaa+bbbb+aaba+aabb \\
-        & & +abaa+abab+abba+abbb \\
-        & & +baaa+baab+baba+babb \\
-        & & +bbaa+bbab+bbba+bbbb
-\end{eqnarray*}`
