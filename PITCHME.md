@@ -4,12 +4,14 @@
 
 ---
 ## 14.4 Division Rule
+
 `\[
 \mbox{if}\; f:A\rightarrow B\; \mbox{is}\; \mbox{k-to-1}, \mbox{then}\; |A|=k\cdot |B|
 \]`
 
 ---
 ### 14.4.1 Anothor Chess Problem
+
 `\[
 (r_1,c_1,r_2,c_2)
 \]`
@@ -21,13 +23,17 @@
 `\[
 |B|=\frac{|A|}{2}=\frac{(8\cdot 7)^2}{2}
 \]`
+
 ---
 ### 14.4.2 Knights of the Round Table
+
 `\[
 \frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
 \]`
+
 ---
 ## 14.5 Counting Subset
+
 `\[
 \left(
 \begin{array}{ccc}
@@ -36,6 +42,7 @@
 \end{array}
 \right)::=\mbox{the number of k-element subsets of an n-element set}
 \]`
+
 ---
 ### 14.5.1 The Subset Rule
 
