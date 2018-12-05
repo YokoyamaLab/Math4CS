@@ -2,7 +2,7 @@
 
 `$ \{7\diamondsuit,K\clubsuit,3\diamondsuit,A\heartsuit,2\spadesuit\} $`
 
-`$ (7,K,A,\diamondsuit,3)\rightleftarrow\{7\diamondsuit,K\clubsuit,A\heartsuit,2\spadesuit,3\diamondsuit\} $`
+`$ (7,K,A,\diamondsuit,3)\leftrightarrow\{7\diamondsuit,K\clubsuit,A\heartsuit,2\spadesuit,3\diamondsuit\} $`
 
 `\[
 \begin{array}{ccc}
