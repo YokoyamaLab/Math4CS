@@ -52,7 +52,7 @@
 <!-- 14.8.4 The Secret -->
 
 ---?include=14_8_5/GITPITCH.md
-<!-- 14.8.5 The Real Secret ->
+<!-- 14.8.5 The Real Secret -->
 
 ---?include=14_8_6/GITPITCH.md
 <!-- 14.8.6 The Same Trick with Four Cards? -->
