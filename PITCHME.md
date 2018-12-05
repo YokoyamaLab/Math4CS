@@ -2,89 +2,19 @@
 11日目(横山担当分)
 教科書 14.4-8
 
----
-## 14.4 Division Rule
-moto
-`\[
-\mbox{if}\; f:A\rightarrow B\; \mbox{is}\; \mbox{k-to-1}, \mbox{then}\; |A|=k\cdot |B|
-\]`
 
 ---?include=14_4/GITPITCH.md
 
----
-### 14.4.1 Anothor Chess Problem
+---?include=14_4_1/GITPITCH.md
 
-`\[
-(r_1,c_1,r_2,c_2)
-\]`
+---?include=14_4_2/GITPITCH.md
 
-`\[
-(1,a,8,h)\; \mbox{and}\; (8,h,1,a)
-\]`
+---?include=14_5/GITPITCH.md
 
-`\[
-|B|=\frac{|A|}{2}=\frac{(8\cdot 7)^2}{2}
-\]`
+---?include=14_5_1/GITPITCH.md
 
----
-### 14.4.2 Knights of the Round Table
+---?include=14_5_2/GITPITCH.md
 
-`\[
-\frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
-\]`
-
----
-## 14.5 Counting Subset
-
-`\[
-\left(
-\begin{array}{ccc}
-      n \\ 
-      k 
-\end{array}
-\right)::=\mbox{the number of k-element subsets of an n-element set}
-\]`
-
-* I can select 5 books from 100 in
-`$ \left(\begin{array}{ccc}100 \\ 5 \end{array}\right) $`
-* There are 
-`$ \left(\begin{array}{ccc}52 \\ 13 \end{array}\right) $` different bridge hands
-* There are 
-`$ \left(\begin{array}{ccc}14 \\ 5 \end{array}\right) $` differenct 5-toppings pizza, if 14 toppings are available
-
----
-### 14.5.1 The Subset Rule
-
-`\[
-n!=k!(n-k)!
-\left(
-\begin{array}{ccc}
-      n \\ 
-      k 
-\end{array}
-\right)
-\]`
-
-`\[
-\left(
-\begin{array}{ccc}
-      n \\ 
-      k 
-\end{array}
-\right)=\frac{n!}{k!(n-k)!}
-\]`
-
----
-### 14.5.2 Bit Sequence
-
-`\[
-\begin{array}{ccc}
-      { x_1    x_4 x_5     } \\ 
-      ( 1, 0, 0, 1, 1, 0, 0, 0) 
-\end{array}
-\]`
-
----
 ## 14.6 Sequence with Repetitions
 
 ---
