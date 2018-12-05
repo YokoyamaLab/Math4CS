@@ -26,13 +26,15 @@
 
 ---
 ### 14.4.2 Knights of the Round Table
-
+Hello
 `\[
 \frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
 \]`
+World
 
+Hello
 `$ k=\frac{2}{5} $`
-
+World
 ---
 ## 14.5 Counting Subset
 
