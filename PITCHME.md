@@ -36,6 +36,9 @@
 ---?include=14_7_3/GITPITCH.md
 <!-- 14.7.3 Hands with Two Pairs -->
 
+---?include=14_7_4/GITPITCH.md
+<!-- 14.7.4 Hands with Every Suit -->
+
 ---?include=14_8/GITPITCH.md
 <!-- 14.8 The Pigeonhole Principle -->
 
