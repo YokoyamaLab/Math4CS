@@ -29,4 +29,4 @@
         & & +abaa+abab+abba+abbb \\
         & & +baaa+baab+baba+babb \\
         & & +bbaa+bbab+bbba+bbbb
-`\end{eqnarray*}
+\end{eqnarray*}`
