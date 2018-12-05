@@ -32,12 +32,7 @@
 \]`
 
 * I can select 5 books from 100 in
-`$ \left(
-\begin{array}{ccc}
-      n \\ 
-      k 
-\end{array}
-\right) $`
+`$ \left(\begin{array}{ccc}n \\ k \end{array}\right) $`
 * There are 
 
 ---
