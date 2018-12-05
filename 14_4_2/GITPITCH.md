@@ -4,4 +4,3 @@
 \frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
 \]`
 
----
