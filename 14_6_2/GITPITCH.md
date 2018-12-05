@@ -15,4 +15,4 @@
       k_1,\cdots,k_m
 \end{array}
 \right)
-`\]
+\]`
