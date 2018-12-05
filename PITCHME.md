@@ -3,11 +3,17 @@
 教科書 14.4-8
 
 ---?include=14_4/GITPITCH.md
+
 ---?include=14_4_1/GITPITCH.md
+
 ---?include=14_4_2/GITPITCH.md
+
 ---?include=14_5/GITPITCH.md
+
 ---?include=14_5_1/GITPITCH.md
+
 ---?include=14_5_2/GITPITCH.md
+
 ## 14.6 Sequence with Repetitions
 
 ---
