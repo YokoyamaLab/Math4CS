@@ -4,10 +4,12 @@
 
 ---
 ## 14.4 Division Rule
-
+moto
 `\[
 \mbox{if}\; f:A\rightarrow B\; \mbox{is}\; \mbox{k-to-1}, \mbox{then}\; |A|=k\cdot |B|
 \]`
+
+---?include=14_4/PITCHME.md
 
 ---
 ### 14.4.1 Anothor Chess Problem
