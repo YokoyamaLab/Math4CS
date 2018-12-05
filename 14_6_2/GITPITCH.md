@@ -20,3 +20,10 @@
 `\[
 \frac{20!}{5!)^4}
 \]`
+
+`\begin{eqnarray*}
+(a+b)^4 &=& aaaa+bbbb+aaba+aabb \\
+        & & +abaa+abab+abba+abbb \\
+        & & +baaa+baab+baba+babb \\
+        & & +bbaa+bbab+bbba+bbbb
+`\end{eqnarray*}
