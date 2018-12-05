@@ -15,7 +15,7 @@
 \]`
 
 `\[
-(1,a,8,h); \mbox{and}\; (8,h,1,a)
+(1,a,8,h)\; \mbox{and}\; (8,h,1,a)
 \]`
 
 `\[
@@ -23,10 +23,19 @@
 \]`
 ---
 ### 14.4.2 Knights of the Round Table
-
+`\[
+\frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
+\]`
 ---
 ## 14.5 Counting Subset
-
+`\[
+\left(
+\begin{array}{ccc}
+      n \\ 
+      k 
+\end{array}
+\right)::=\mbox{the number of k-element subsets of an n-element set}
+\]`
 ---
 ### 14.5.1 The Subset Rule
 
