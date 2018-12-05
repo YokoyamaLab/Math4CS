@@ -15,5 +15,3 @@
 `$ \left(\begin{array}{ccc}52 \\ 13 \end{array}\right) $` different bridge hands
 * There are 
 `$ \left(\begin{array}{ccc}14 \\ 5 \end{array}\right) $` differenct 5-toppings pizza, if 14 toppings are available
-
----
