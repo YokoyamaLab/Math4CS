@@ -63,8 +63,24 @@ n!=k!(n-k)!
 \right)
 \]`
 
+`\[
+\left(
+\begin{array}{ccc}
+      n \\ 
+      k 
+\end{array}
+\right)=\frac{n!}{k!(n-k)!}
+\]`
+
 ---
 ### 14.5.2 Bit Sequence
+
+`\[
+\begin{array}{ccc}
+      { x_1    x_4 x_5     } \\ 
+      ( 1, 0, 0, 1, 1, 0, 0, 0) 
+\end{array}
+\]`
 
 ---
 ## 14.6 Sequence with Repetitions
