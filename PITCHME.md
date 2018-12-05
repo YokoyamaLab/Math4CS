@@ -26,15 +26,20 @@
 
 ---
 ### 14.4.2 Knights of the Round Table
-Hello
+
 `\[
 \frac{\#seatings}{n}=\frac{n!}{n}=(n-1)!
 \]`
-World
 
-Hello
-`$ k=\frac{2}{5} $`
-World
+* I can select 5 books from 100 in
+`$ \left(
+\begin{array}{ccc}
+      n \\ 
+      k 
+\end{array}
+\right) $`
+* There are 
+
 ---
 ## 14.5 Counting Subset
 
