@@ -1,7 +1,5 @@
 ### 14.6.3 The Binominal Theorem
 
-* 二項定理
-
 `\begin{eqnarray*}
 (a+b)^4 &=& aaaa+bbbb+aaba+aabb \\
         & & +abaa+abab+abba+abbb \\
@@ -22,6 +20,7 @@
 \]`
 
 ----
+
 #### 14.6.3 The Binominal Theorem (cont'd 1)
 
 * `$n=4$`で`$k={0,1,2,3,4}$`なので
@@ -33,6 +32,7 @@
 \]`
 
 ---
+
 #### 14.6.3 The Binominal Theorem (cont'd 2)
 
 `\[
@@ -50,6 +50,7 @@
 * nは自然数、a,bは実数
 
 ---
+
 #### 14.6.3 The Binominal Theorem (cont'd 3)
 
 *　BOOKKEEPERも同様だ
