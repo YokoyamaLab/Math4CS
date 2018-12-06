@@ -1,4 +1,5 @@
 ### 14.6.3 The Binominal Theorem
+* 二項定理
 
 `\begin{eqnarray*}
 (a+b)^4 &=& aaaa+bbbb+aaba+aabb \\
@@ -6,6 +7,10 @@
         & & +baaa+baab+baba+babb \\
         & & +bbaa+bbab+bbba+bbbb
 \end{eqnarray*}`
+
+* aとbの4文字からなる全ての列の足し算である
+  * `$2^4$`通り
+* k個のbとそれ以外のaへの分割
 
 `\[
 \frac{n!}{k!(n-k)!}=\left(
@@ -16,11 +21,14 @@
 \right)
 \]`
 
-`$ a^{n-k}b^k\mbox{is}\left(\begin{array}{c}  n \\  k \end{array}\right) $`
+* `$n=4$`で`$k={0,1,2,3,4}$`なので
 
 `\[
 (a+b)^4=\left(\begin{array}{c}  4 \\  0 \end{array}\right)\cdot a^4b^0+\left(\begin{array}{c}  4 \\  1 \end{array}\right) \cdot a^3b^1+\left(\begin{array}{c}  4 \\  2 \end{array}\right)\cdot a^2b^2\left(\begin{array}{c}  4 \\  3 \end{array}\right)\cdot a^1b^3+\left(\begin{array}{c}  4 \\  4 \end{array}\right)\cdot a^0b^4
 \]`
+
+---
+#### 14.6.3 The Binominal Theorem (cont'd)
 
 `\[
 (a+b)^n=\sum_{k=0}^{n}\left(\begin{array}{c}  n \\  k \end{array}\right)a^{n-k}b^k
