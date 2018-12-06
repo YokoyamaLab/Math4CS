@@ -2,7 +2,7 @@
 * 円卓の騎士の席順問題
   * ***4***人の騎士の円卓の並び方は何通り？
   
-![PIC](https://vectr.com/abarth500/atS0WOGf6.svg?width=640&height=640&select=atS0WOGf6page0)
+![PIC](https://vectr.com/abarth500/atS0WOGf6.svg?width=200&height=200&select=atS0WOGf6page0)
 
 * 時計回りに回転しても同じ座り方と考えられるので
   * ***4-to-1***関係
