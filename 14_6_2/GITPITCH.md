@@ -23,14 +23,11 @@
 
 * この問題は次のように表現される
 `\[
-\left(
-\begin{array}{c}
-      k_1+k_2+\cdots +k_m \\ 
-      k_1,\cdots,k_m
-\end{array}
-\right)
+\left(\begin{array}{c}      k_1+k_2+\cdots +k_m \\       k_1,\cdots,k_m \end{array}\right)
 \]`
 
+<!--
 `\[
 \frac{20!}{5!)^4}
 \]`
+-->
