@@ -19,7 +19,7 @@
 \right)
 \]`
 
-----
+---
 
 #### 14.6.3 The Binominal Theorem (cont'd 1)
 
