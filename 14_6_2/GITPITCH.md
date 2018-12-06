@@ -10,13 +10,18 @@
 * つまり構成要素毎に分割すると
 
 `\[
-({1},{2,3},{4,5},{6,7,9},{8},{10})
+(\{1\},\{2,3\},\{4,5\},\{6,7,9\},\{8\},\{10\})
 \]`
 
+---
+#### 14.6.2 The Bookkeeper Rule (cont'd)
+
+* **BOOKKEEPER**を並び替えて得られる単語数は
 `\[
 \frac{\overbrace{10!}^{total\;letters}}{\underbrace{1!}_{B's}\underbrace{2!}_{O's}\underbrace{2!}_{K's}\underbrace{3!}_{E's}\underbrace{1!}_{P's}\underbrace{1!}_{R's}}
 \]`
 
+* この問題は次のように表現される
 `\[
 \left(
 \begin{array}{c}
