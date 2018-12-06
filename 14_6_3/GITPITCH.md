@@ -21,6 +21,9 @@
 \right)
 \]`
 
+----
+#### 14.6.3 The Binominal Theorem (cont'd 1)
+
 * `$n=4$`で`$k={0,1,2,3,4}$`なので
 
 `\[
@@ -30,7 +33,7 @@
 \]`
 
 ---
-#### 14.6.3 The Binominal Theorem (cont'd)
+#### 14.6.3 The Binominal Theorem (cont'd 2)
 
 `\[
 (a+b)^4=\left(\begin{array}{c}  4 \\  0 \end{array}\right)\cdot a^4b^0+\left(\begin{array}{c}  4 \\  1 \end{array}\right) \cdot a^3b^1+\left(\begin{array}{c}  4 \\  2 \end{array}\right)\cdot a^2b^2\left(\begin{array}{c}  4 \\  3 \end{array}\right)\cdot a^1b^3+\left(\begin{array}{c}  4 \\  4 \end{array}\right)\cdot a^0b^4
@@ -45,7 +48,7 @@
 * nは自然数、a,bは実数
 
 ---
-#### 14.6.3 The Binominal Theorem (cont'd 2)
+#### 14.6.3 The Binominal Theorem (cont'd 3)
 
 *　BOOKKEEPERも同様だ
 
