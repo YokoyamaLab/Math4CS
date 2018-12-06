@@ -1,6 +1,6 @@
 ## 14.4 Division Rule
 
-@quote[Counting ears and dividing by two is a silly way to count the number of people in a room, but this approach is representatice of a powerful counting principle.](p.559)
+@quote[@size[5vw](Counting ears and dividing by two is a silly way to count the number of people in a room, but this approach is representatice of a powerful counting principle)](p.559)
 
 耳2個で人1人という対応関係は、一般化して_k_-to-1関係と考える事が出来る。
 
