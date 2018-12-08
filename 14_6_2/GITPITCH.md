@@ -10,7 +10,7 @@
 * つまり構成要素毎に分割すると
 
 `\[
-(\{\underbrace{1}_{@color[#E91E63](B)}\},\{\underbrace{2,3}_{O}\},\{\underbrace{4,5}_{K}\},\{\underbrace{6,7,9}_{E}\},\{\underbrace{8}_{P}\},\{\underbrace{10}_{R}\})
+(\{\underbrace{1}_{\colornucleus[rgb]{0,0,1}{B}}\},\{\underbrace{2,3}_{O}\},\{\underbrace{4,5}_{K}\},\{\underbrace{6,7,9}_{E}\},\{\underbrace{8}_{P}\},\{\underbrace{10}_{R}\})
 \]`
 
 ---
