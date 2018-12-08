@@ -49,11 +49,11 @@
 
 `\[
 \tiny{
-(a+b)^4 = \left(\begin{array}{c}  4 \\  0 \end{array}\right)\cdot a^4b^0+\left(\begin{array}{c}  4 \\  1 \end{array}\right) \cdot a^3b^1+\left(\begin{array}{c}  4 \\  2 \end{array}\right)\cdot a^2b^2\left(\begin{array}{c}  4 \\  3 \end{array}\right)\cdot a^1b^3+\left(\begin{array}{c}  4 \\  4 \end{array}\right)\cdot a^0b^4 
+(a+b)^4 &=& \left(\begin{array}{c}  4 \\  0 \end{array}\right)\cdot a^4b^0+\left(\begin{array}{c}  4 \\  1 \end{array}\right) \cdot a^3b^1+\left(\begin{array}{c}  4 \\  2 \end{array}\right)\cdot a^2b^2\left(\begin{array}{c}  4 \\  3 \end{array}\right)\cdot a^1b^3+\left(\begin{array}{c}  4 \\  4 \end{array}\right)\cdot a^0b^4 
 }
 \]`
 
-*　これを一般化すると二項定理になる
+* これを一般化すると二項定理になる
 
 `\[
 (a+b)^n=\sum_{k=0}^{n}\left(\begin{array}{c}  n \\  k \end{array}\right)a^{n-k}b^k
