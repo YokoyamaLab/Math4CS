@@ -37,9 +37,10 @@
   4 \\
   0
 \end{array}
-\right)=\frac{4!}{0!(4-0)!}=\frac{4!/4!}=1
+\right)=\frac{4!}{0!(4-0)!}=\frac{4!}{4!}=1
 \]`
-* 前頁の式でaaaaは何個あった？
+* 前頁の式でaaaaは何個あった？→1個
+
 ---
 
 #### 14.6.3 The Binominal Theorem (cont'd 2)
