@@ -3,14 +3,14 @@
 * 要素に重複のある列ではどうだろうか？
   * 10文字からなる**BOOKKEEPER**の構成要素は？
   
-|  @color[#E91E63](1)  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  |
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  @color[#E91E63](B)  |  O  |  O  |  K  |  K  |  E  |  E  |  P  |  E  |  R  |
+|  B  |  O  |  O  |  K  |  K  |  E  |  E  |  P  |  E  |  R  |
 
 * つまり構成要素毎に分割すると
 
 `\[
-(\{\underbrace{1}_{\colornucleus[rgb]{0,0,1}{B}}\},\{\underbrace{2,3}_{O}\},\{\underbrace{4,5}_{K}\},\{\underbrace{6,7,9}_{E}\},\{\underbrace{8}_{P}\},\{\underbrace{10}_{R}\})
+(\{\underbrace{1}_{B}\},\{\underbrace{2,3}_{O}\},\{\underbrace{4,5}_{K}\},\{\underbrace{6,7,9}_{E}\},\{\underbrace{8}_{P}\},\{\underbrace{10}_{R}\})
 \]`
 
 ---
