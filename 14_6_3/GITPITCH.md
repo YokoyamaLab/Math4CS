@@ -31,6 +31,7 @@
 }
 \]`
 * ここで　`& a^4\cdot b0 \rightarrow aaaa &`に着目しよう。
+
 `\[
 \left(
 \begin{array}{c}
@@ -39,6 +40,7 @@
 \end{array}
 \right)=\frac{4!}{0!(4-0)!}=\frac{4!}{4!}=1
 \]`
+
 * 前頁の式でaaaaは何個あった？→1個
 
 ---
