@@ -1,7 +1,7 @@
 ### 14.7.2 Hands with a Full House
 
 * 次にフルハウスについて考えてみよう。
-  * 同じ数字の3カードと別の数字の2カードからなる手
+  * 同じ数字の3カードと別の数字の2カード
 
 `$ \{2\spadesuit,2\clubsuit,2\diamondsuit,J\clubsuit,J\diamondsuit\} $`
  
@@ -13,9 +13,9 @@
   1. 2カードになる**数**
   1. 2カードを構成する**記号**
 
- ---
- 
- #### 14.7.2 Hands with a Full House (cont'd)
+---
+
+#### 14.7.2 Hands with a Full House (cont'd)
  
 `$ (2,\{\spadesuit,\clubsuit,\diamondsuit\},J,\{\clubsuit,\diamondsuit\}) \leftrightarrow \{2\spadesuit,2\clubsuit,2\diamondsuit,J\clubsuit,J\diamondsuit\} $`
   
