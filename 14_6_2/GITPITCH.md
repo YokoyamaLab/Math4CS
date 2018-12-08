@@ -10,7 +10,7 @@
 * つまり構成要素毎に分割すると
 
 `\[
-(\{1\},\{2,3\},\{4,5\},\{6,7,9\},\{8\},\{10\})
+(\{\underbrace{1}_{B}\},\{\underbrace{2,3}_{O}\},\{\underbrace{4,5}_{K}\},\{\underbrace{6,7,9}_{E}\},\{\underbrace{8}_{P}\},\{\underbrace{10}_{R}\})
 \]`
 
 ---
@@ -18,7 +18,7 @@
 
 * **BOOKKEEPER**を並び替えて得られる単語数は
 `\[
-\frac{\overbrace{10!}^{total\;letters}}{\underbrace{1!}_{B's}\underbrace{2!}_{O's}\underbrace{2!}_{K's}\underbrace{3!}_{E's}\underbrace{1!}_{P's}\underbrace{1!}_{R's}}
+\frac{\overbrace{10!}^{total\;letters}}{\underbrace{1!}_{B}\underbrace{2!}_{O}\underbrace{2!}_{K}\underbrace{3!}_{E}\underbrace{1!}_{P}\underbrace{1!}_{R}}
 \]`
 
 * この問題は次のように表現される
