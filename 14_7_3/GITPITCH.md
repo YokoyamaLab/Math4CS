@@ -26,6 +26,15 @@
 13\cdot\left(\begin{array}{c}4\\2\end{array}\right)\cdot 12\cdot\left(\begin{array}{c}4\\2\end{array}\right)\cdot 11 \cdot 4
 \]`
 
+- これでＯＫ？
+
+- No!!
+
+---
+
+#### 14.7.3 Hands with Two Pairs (cont'd)
+
+
 `\[
 \begin{array}{ccc}
  (3,\{\diamondsuit,\spadesuit\},Q,\{\diamondsuit,\heartsuit\},A,\clubsuit) & \searrow & \\
