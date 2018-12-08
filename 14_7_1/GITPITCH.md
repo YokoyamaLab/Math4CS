@@ -1,6 +1,6 @@
 ### 14.7.1 Hands with Four-of-a-kind
 
-* ポーカーの4カードにはいくつの異なる手があるだろうか？
+* ポーカーの<u>4カード</u>にはいくつの異なる手があるだろうか？
 
 `$ \{8\spadesuit,8\diamondsuit,Q\heartsuit,8\heartsuit,8\clubsuit\} $`
 
@@ -16,7 +16,7 @@
 
 #### 14.7.1 Hands with Four-of-a-kind (cont'd)
 
-* 先ほどの4カードを列で表してみよう。
+* 先ほどの<u>4カード</u>を列で表してみよう。
 
 `$ (8,Q,\heartsuit) \leftrightarrow \{8\spadesuit,8\diamondsuit,8\heartsuit,8\clubsuit,Q\heartsuit \} $`
 
@@ -26,4 +26,4 @@
   1. 4枚のカードの**数**`$\rightarrow 13$`
   1. 残りの1枚のカードの**数**`$\rightarrow 12$`
   1. 残りの1枚のカードの**マーク**`$\rightarrow 4$`
-* 答：`$ 624 $` (たった4265手に1手が4カードである)
+* 答：`$ 624 $` (たった4265手に1手が<u>4カード</u>である)
