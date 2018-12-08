@@ -8,7 +8,7 @@
 
 * <u>2ペア</u>の成立要件を考える
 　1. 最初のペアの**数** `$ \rightarrow 13$`
-  1. 最初のペアの**記号** `$ \rightarrow \small{\begin{array}{c}4\\2\end{array}\right)}$`
+  1. 最初のペアの**記号** `$  \small{\rightarrow\begin{array}{c}4\\2\end{array}\right)}$`
   1. 次のペアの**数** `$ \rightarrow 12$`
   1. 次のペアの**記号** `$ \rightarrow  \small{\begin{array}{c}4\\2\end{array}\right)}$`
   1. 残りのカードの**数** `$ \rightarrow 11$`
