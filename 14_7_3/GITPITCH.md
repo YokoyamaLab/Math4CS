@@ -57,5 +57,5 @@
 * ***3***と***Q***の<u>ツーペア</u>と***Q***と***3***の<u>ツーペア</u>は同じである
 * Division Ruleに基づいて2で割る
 `\[
-\frac{13\cdot\left(\begin{array}{c}\tiny{4\\2}\end{array}\right)\cdot 12\cdot\tiny{\left(\begin{array}{c}4\\2\end{array}\right) }\cdot 11 \cdot 4}{2}
+\frac{13\cdot\left(\tiny{\begin{array}{c}4\\2\end{array}}\right)\cdot 12\cdot\tiny{\left(\begin{array}{c}4\\2\end{array}\right) }\cdot 11 \cdot 4}{2}
 \]`
