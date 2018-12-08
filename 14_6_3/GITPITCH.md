@@ -70,13 +70,13 @@
 
 #### 14.6.3 The Binominal Theorem (cont'd 3)
 
-*　BOOKKEEPERも同様だ
+* BOOKKEEPERも同様だ
 
 `\[
 (b++k+e+*p+r)^10 = \cdots + bo^2k^2e^3pr + \cdots
 \]`
 
-*  `$ bo^2k^2e^3pr $`の係数は以下となる
+* `$ bo^2k^2e^3pr $`の係数は以下となる
 
 `\[
 \left(\begin{array}{c}  10 \\  1,2,2,3,1,1 \end{array}\right)=\frac{10!}{1!2!2!3!1!1!}
