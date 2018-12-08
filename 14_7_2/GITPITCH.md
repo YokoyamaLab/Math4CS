@@ -21,10 +21,10 @@
   
 `$  (5,\{\diamondsuit,\clubsuit,\heartsuit\},7,\{\heartsuit,\clubsuit\}) \leftrightarrow \{5\diamondsuit,5\clubsuit,5\heartsuit,7\heartsuit,7\clubsuit\} $` 
    
-  1. 3カードになる**数** `% \rightarrow 13%`
-  1. 3カードを構成する**記号** `% \rightarrow \left(4\\3\right)%`
-  1. 2カードになる**数** `% \rightarrow 12 %`
-  1. 2カードを構成する**記号** `% \rightarrow \left(4\\2\right)%`
+  1. 3カードになる**数** `$ \rightarrow 13$`
+  1. 3カードを構成する**記号** `$ \rightarrow \left(4\\3\right)$`
+  1. 2カードになる**数** `$ \rightarrow 12 $`
+  1. 2カードを構成する**記号** `$ \rightarrow \left(4\\2\right)$`
 
 `\[
 13\cdot\left(\begin{array}{c}  4 \\  3 \end{array}\right)\cdot 12\cdot\left(\begin{array}{c}  4 \\  2 \end{array}\right)
