@@ -30,7 +30,7 @@
 (a+b)^4=\left(\begin{array}{c}  4 \\  0 \end{array}\right)\cdot a^4b^0+\left(\begin{array}{c}  4 \\  1 \end{array}\right) \cdot a^3b^1+\left(\begin{array}{c}  4 \\  2 \end{array}\right)\cdot a^2b^2\left(\begin{array}{c}  4 \\  3 \end{array}\right)\cdot a^1b^3+\left(\begin{array}{c}  4 \\  4 \end{array}\right)\cdot a^0b^4
 }
 \]`
-* ここで　`$ a^4\cdot b0 \rightarrow aaaa $`に着目しよう。
+* ここで　`$ a^4\cdot b^0 \rightarrow aaaa $`に着目しよう。
 
 `\[
 \left(
