@@ -16,7 +16,7 @@
   1. 次のペアの**数** `$ \rightarrow 12$`
   1. 次のペアの**記号** `$ \small{\rightarrow \left(\begin{array}{c}4\\2\end{array}\right)}$`
   1. 残りのカードの**数** `$ \rightarrow 11$`
-  1. 残りのカードの**記号**`$ \small{\rightarrow \left(\begin{array}{c}4\\1\end{array}\right)}$`
+  1. 残りのカードの**記号**`$ \small{\rightarrow \left(\begin{array}{c}4\\1\end{array}\right)=4}$`
 
 ---
 
