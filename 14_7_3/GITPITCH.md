@@ -6,6 +6,10 @@
 
 `$ \{9\heartsuit,9\diamondsuit,5\heartsuit,5\clubsuit,K\spadesuit\} $`
 
+---
+
+#### 14.7.3 Hands with Two Pairs (cont'd)
+
 * <u>2ペア</u>の成立要件を考える
   1. 最初のペアの**数** `$ \rightarrow 13$`
   1. 最初のペアの**記号** `$ \small{\rightarrow \left(\begin{array}{c}4\\2\end{array}\right)}$`
