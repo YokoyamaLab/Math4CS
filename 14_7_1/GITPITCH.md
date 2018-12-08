@@ -22,7 +22,7 @@
 
 `$ (2,A,\clubsuit) \leftrightarrow \{2\clubsuit,2\heartsuit,2\diamondsuit,2\spadesuit,A\clubsuit \} $`
 
-* 後はこの列の種類を数え上げるだけで4カードの手の数は判明する。
+* 後はこの列の種類を数え上げるだけ
   1. 4枚のカードの**数**`$\rightarrow 13$`
   1. 残りの1枚のカードの**数**`$\rightarrow 12$`
   1. 残りの1枚のカードの**マーク**`$\rightarrow 4$`
