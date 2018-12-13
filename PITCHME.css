@@ -6,16 +6,16 @@
    color: #263238;
 }
 
-.reveal ul,
-.reveal ul ul,
-.reveal ul ul ul,
-.reveal ul ul ul ul{
+.reveal_ ul,
+.reveal_ ul ul,
+.reveal_ ul ul ul,
+.reveal_ ul ul ul ul{
    list-style-type: none;
    list-style: none;
 }
 
-.reveal ul>li::before,
-.reveal ul ul>li::before
+.reveal_ ul>li::before,
+.reveal_ ul ul>li::before
 {
   content: "➜"; color: #FF8A65;
   display: inline-block; width: 1em;
