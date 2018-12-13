@@ -3,3 +3,4 @@ theme : white
 layout : top-left
 mathjax : TeX-MML-AM_HTMLorMML-full
 gatoken : UA-125635966-2
+theme-override : PITCHME.css
