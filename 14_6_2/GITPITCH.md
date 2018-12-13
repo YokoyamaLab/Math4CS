@@ -1,3 +1,4 @@
+@snap[north-west]
 ### 14.6.2 The Bookkeeper Rule
 
 * 要素に重複のある列ではどうだろうか？
@@ -31,3 +32,4 @@
 \frac{20!}{5!)^4}
 \]`
 -->
+@snapend
