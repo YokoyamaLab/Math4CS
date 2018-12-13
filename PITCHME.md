@@ -2,7 +2,7 @@
 11日目(横山担当分)
 教科書 14.4-8
 
-@snap[north-west]
+
 
 ---?include=14_4/GITPITCH.md
 
@@ -61,5 +61,3 @@
 
 ---?include=14_8_6/GITPITCH.md
 <!-- 14.8.6 The Same Trick with Four Cards? -->
-
-@snapend
