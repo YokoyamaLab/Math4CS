@@ -28,4 +28,6 @@
 
 * という訳でDivision Ruleに基づいて、答えは
 
-`$ \frac{13^4\cdot 4\cdot 12}{2} $`
+`\[
+\frac{13^4\cdot 4\cdot 12}{2} 
+\]`
