@@ -6,7 +6,10 @@
    color: #263238;
 }
 
-.reveal ul {
+.reveal ul,
+.reveal ul ul,
+.reveal ul ul ul,
+.reveal ul ul ul ul{
    list-style-type: none;
    list-style: none;
 }
