@@ -4,3 +4,7 @@
 span.MathJax{
    color: #263238;
 }
+ul {list-style: none}
+li::before {content: "•"; color: #FF8A65;
+  display: inline-block; width: 1em;
+  margin-left: -1em}
