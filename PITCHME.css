@@ -2,14 +2,15 @@
    color: #D84315;
 }
 
-span.MathJax{
+.reveal span.MathJax{
    color: #263238;
 }
 
-ul {
+.reveal ul {
+   list-style-type: none;
    list-style: none;
 }
 
-li::before {content: "•"; color: #FF8A65;
+.reveal li::before {content: "•"; color: #FF8A65;
   display: inline-block; width: 1em;
   margin-left: -1em}
