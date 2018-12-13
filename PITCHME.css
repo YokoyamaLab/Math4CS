@@ -1,22 +1,8 @@
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
    color: #D84315;
+   test-align:center;
 }
 
 .reveal span.MathJax{
    color: #263238;
 }
-
-.reveal_ ul,
-.reveal_ ul ul,
-.reveal_ ul ul ul,
-.reveal_ ul ul ul ul{
-   list-style-type: none;
-   list-style: none;
-}
-
-.reveal_ ul>li::before,
-.reveal_ ul ul>li::before
-{
-  content: "➜"; color: #FF8A65;
-  display: inline-block; width: 1em;
-  margin-left: -1em}
