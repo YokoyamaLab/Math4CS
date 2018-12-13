@@ -15,6 +15,7 @@
 }
 
 .reveal ul>li::before,
+.reveal ul ul li::before
 {
   content: "➜"; color: #FF8A65;
   display: inline-block; width: 1em;
