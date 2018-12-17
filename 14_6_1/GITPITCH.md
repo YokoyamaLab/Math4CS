@@ -18,5 +18,5 @@
       n \\ 
       k_1,k_2,\cdots,k_m
 \end{array}
-\right)::=\frac{n!}{k_1!k_2!k\cdots k_m!}
+\right)::=\frac{n!}{k_1!k_2!\cdots k_m!}
 \]`
