@@ -1,4 +1,4 @@
-### 14.6.3 The Binominal Theorem
+### 14.6.3 The Binominal Theorem (二項定理)
 
 `\begin{eqnarray*}
 (a+b)^4 &=& aaaa+bbbb+aaba+aabb \\
