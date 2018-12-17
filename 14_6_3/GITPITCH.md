@@ -73,10 +73,10 @@
 * BOOKKEEPERも同様だ
 
 `\[
-(b++k+e+*p+r)^10 = \cdots + bo^2k^2e^3pr + \cdots
+(b+o+k+e+p+r)^10 = \cdots + Xbo^2k^2e^3pr + \cdots
 \]`
 
-* `$ bo^2k^2e^3pr $`の係数は以下となる
+* `$ bo^2k^2e^3pr $`の係数Xは以下となる
 
 `\[
 \left(\begin{array}{c}  10 \\  1,2,2,3,1,1 \end{array}\right)=\frac{10!}{1!2!2!3!1!1!}
