@@ -20,9 +20,9 @@
 
 `\[
 \begin{array}{ccc}
- (7,K,A,2\diamondsuit,3) & \searrow & \\
+ (7,K,A,2,\diamondsuit,3) & \searrow & \\
  & & \{7\diamondsuit,K\clubsuit,A\heartsuit,2\spadesuit,3\diamondsuit\} \\
- (3,K,A,2\diamondsuit,7) & \nearrow & \\
+ (3,K,A,2,\diamondsuit,7) & \nearrow & \\
 \end{array}
 \]`
 
