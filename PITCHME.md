@@ -5,7 +5,8 @@
 #### 12日目(横山担当分)
 
 教科書 14.4～8
-See : https://gitpitch.com/YokoyamaLab/Math4CS
+
+- See : https://gitpitch.com/YokoyamaLab/Math4CS
 
 @snapend
 
