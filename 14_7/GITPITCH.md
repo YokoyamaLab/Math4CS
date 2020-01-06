@@ -5,5 +5,5 @@
 * 52枚のカードから5枚を引く組み合わせは
 
 `\[
-\left(\begin{array}{c}52 \\ \end{array}\right)=2,598,960\mbox{通り}
+\left(\begin{array}{c} 52 \\ 5 \end{array}\right)=2,598,960\mbox{通り}
 \]`
